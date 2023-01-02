@@ -20,15 +20,17 @@
 <br />
 
 Contact me, I'm open to work:
-<a href="tel:24999457654">(24) 99945-7654</a>
+<a href="tel:24999457654">(24) 99945-7654</a><br />
 <a href="mailto:gabriel-lamon@outlook.com">gabriel-lamon@outlook.com</a>
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lamongabriel&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="lamongabriel Github Stats">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamongabriel&show_icons=true&theme=tokyonight)
+
 <br />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamongabriel&layout=compact&theme=dark&bg_color=0A0A0A" alt="lamongabriel Top Languages"/>
-<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamongabriel&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 <br />
 <br />
 
