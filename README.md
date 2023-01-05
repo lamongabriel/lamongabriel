@@ -24,7 +24,7 @@ Contact me, I'm open to work:
 <a href="mailto:gabriel-lamon@outlook.com">gabriel-lamon@outlook.com</a>
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamongabriel&show_icons=true&theme=tokyonight)
+![lamongabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamongabriel&show_icons=true&theme=tokyonight)
 
 <br />
 <br />
